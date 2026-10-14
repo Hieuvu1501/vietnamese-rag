@@ -1,0 +1,20 @@
+# Secrets
+.env
+*.local
+
+# User data: uploaded documents, SQLite DB, chat history
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
